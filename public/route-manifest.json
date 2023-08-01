@@ -1,0 +1,31 @@
+{
+  "/": [
+    {
+      "type": "script",
+      "href": "/assets/index-1af714f9.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/entry-client-df957da0.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client-da94e705.css"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index-f7e9cf76.css"
+    }
+  ],
+  "entry-client": [
+    {
+      "type": "script",
+      "href": "/assets/entry-client-df957da0.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client-da94e705.css"
+    }
+  ],
+  "index.html": []
+}

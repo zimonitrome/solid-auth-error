@@ -1,0 +1,32 @@
+{
+  "src/entry-client.css": {
+    "file": "assets/entry-client-da94e705.css",
+    "src": "src/entry-client.css"
+  },
+  "src/entry-client.tsx": {
+    "css": [
+      "assets/entry-client-da94e705.css"
+    ],
+    "dynamicImports": [
+      "src/routes/index.tsx"
+    ],
+    "file": "assets/entry-client-df957da0.js",
+    "isEntry": true,
+    "src": "src/entry-client.tsx"
+  },
+  "src/routes/index.css": {
+    "file": "assets/index-f7e9cf76.css",
+    "src": "src/routes/index.css"
+  },
+  "src/routes/index.tsx": {
+    "css": [
+      "assets/index-f7e9cf76.css"
+    ],
+    "file": "assets/index-1af714f9.js",
+    "imports": [
+      "src/entry-client.tsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/index.tsx"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "\u0000vite/preload-helper": [
+  ],
+  "node_modules/@solid-auth/base/client.js": [
+  ],
+  "node_modules/@solidjs/meta/dist/index.jsx": [
+  ],
+  "node_modules/@solidjs/router/dist/components.jsx": [
+  ],
+  "node_modules/@solidjs/router/dist/integration.js": [
+  ],
+  "node_modules/@solidjs/router/dist/lifecycle.js": [
+  ],
+  "node_modules/@solidjs/router/dist/routing.js": [
+  ],
+  "node_modules/@solidjs/router/dist/utils.js": [
+  ],
+  "node_modules/solid-js/dist/solid.js": [
+  ],
+  "node_modules/solid-js/web/dist/web.js": [
+  ],
+  "node_modules/solid-start/entry-client/StartClient.tsx": [
+  ],
+  "node_modules/solid-start/entry-client/mount.tsx": [
+  ],
+  "node_modules/solid-start/error-boundary/ErrorBoundary.tsx": [
+  ],
+  "node_modules/solid-start/root/Document.tsx": [
+  ],
+  "node_modules/solid-start/root/FileRoutes.tsx": [
+  ],
+  "node_modules/solid-start/root/Scripts.tsx": [
+  ],
+  "node_modules/solid-start/router.tsx": [
+  ],
+  "node_modules/solid-start/server/ServerContext.tsx": [
+  ],
+  "node_modules/solid-start/server/types.tsx": [
+  ],
+  "src/entry-client.tsx": [
+  ],
+  "src/root.css": [
+  ],
+  "src/root.tsx": [
+  ],
+  "src/routes/index.module.css?used": [
+    "/assets/index-1af714f9.js",
+    "/assets/index-f7e9cf76.css"
+  ],
+  "src/routes/index.tsx": [
+    "/assets/index-1af714f9.js",
+    "/assets/index-f7e9cf76.css"
+  ]
+}
